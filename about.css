@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(243, 237, 229);
+}
+.h1{
+    padding-inline-start: 40%;
+    border: 5px;
+    border-style: groove;
+    font-weight: bolder;
+    border-color: black;
+    background-color:rgb(155, 155, 155);
+
+
+
+}
+.h2{
+ border: 2px;
+ border-style: ridge;
+ border-color: black;
+ background-color: rgb(183, 176, 176);
+ 
+
+
+}

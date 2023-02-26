@@ -1,0 +1,90 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+  color:bisque;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+#title-logo{
+    padding-left: 5%;
+    display: block;
+    width: 20%;
+    height: 20%;
+}
+
+div.polaroid {
+    float: left;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 32%;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+#about {
+  text-align: center;
+  font-style: italic;
+}
+#partner-img{
+    align-items: center;
+    margin: 5%;
+}
+#sec{
+      padding-left: 100px;
+  }
+#social {
+    padding-left: 80%;
+}
+#linkedin {
+    display: block;
+    float: left;
+    width: 8%;
+    height: 8%;
+    padding: 5px;
+}
+#instagram {
+    display: block;
+    width: 8%;
+    float: left;
+    height: 8%;
+    padding: 5px;
+}
+#twitter {
+    display: block;
+    float: left;
+    width: 8%;
+    height: 8%;
+    padding: 5px;
+}
+#links{
+    display: block;  
+    float: left
+}

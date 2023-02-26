@@ -1,0 +1,38 @@
+.heading{
+    font-size: xx-large;
+    border-style: groove;
+    border-color: black;
+    font-style: oblique;
+    padding-inline-start: 40%;
+    background-color: aquamarine;
+}
+.preheading{
+    font-size: xx-large;
+}
+.body{
+    font-size: x-large;
+}
+.image{
+    float: right;
+}
+.body{
+    float: left;
+    height:100%;
+    width: 65%;
+}
+.names{
+    background-color: azure;
+}
+.end{
+    border-style: inherit;
+    background-color: blanchedalmond;
+    float: right;
+    border-width: 100%;
+}
+.image2{
+    float: right;
+    padding-inline-start: 200%;
+}
+.thirdbody{
+    float: left;
+}
